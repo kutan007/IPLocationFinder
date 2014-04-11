@@ -8,9 +8,6 @@ import net.webservicex.GeoIPServiceSoap;
 
 public class IPLocationFinder {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
 		System.out.println("Enter the IP Address: ");
